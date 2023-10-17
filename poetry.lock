@@ -339,7 +339,7 @@ reference = "the_pypi"
 
 [[package]]
 name = "lxml"
-version = "4.9.2"
+version = "4.9.3"
 description = "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
 category = "main"
 optional = false
